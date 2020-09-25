@@ -1,1 +1,1 @@
-![header-image](header-image.jpg)
+![header](header.jpg)
